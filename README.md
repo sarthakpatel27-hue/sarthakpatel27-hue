@@ -21,7 +21,7 @@ https://github.com/sarthakpatel27-hue/digital-thread-manufacturing
 
 ## Tools
 
-CAD / Engineering  
+CAD GD&T  
 CATIA | SiemensNX 
 
 Manufacturing  
