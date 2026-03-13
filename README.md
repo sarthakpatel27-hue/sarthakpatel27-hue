@@ -22,7 +22,7 @@ https://github.com/sarthakpatel27-hue/digital-thread-manufacturing
 ## Tools
 
 CAD / Engineering  
-CATIA • SiemensNX 
+CATIA | SiemensNX 
 
 Manufacturing  
 New Product Introduction | Production Optimisation | Risk Thinking | Supply Chain  
@@ -32,7 +32,6 @@ Python | SQL | Power BI
 
 ## Background
 
-Manufacturing Engineer
-MSc Aerospace Manufacturing – Cranfield University   
+Manufacturing Engineer | MSc Aerospace Manufacturing – Cranfield University   
 
 ---
