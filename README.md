@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Sarthak Patel
 
-<!--
-**sarthakpatel27-hue/sarthakpatel27-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Manufacturing Engineer | Aerospace Manufacturing | Digital Manufacturing
 
-Here are some ideas to get you started:
+I work at the intersection of **manufacturing systems, engineering change control, and Industry 4.0 workflows**.
+## Areas of Interest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Digital Thread
+- PLM / Engineering Change Management
+- Advanced Manufacturing Technologies
+- Manufacturing Data Systems
+- Lean Manufacturing & Operations Excellence
+
+## Current Projects
+
+Digital Thread Manufacturing Project  
+Simulating engineering data flow from **EBOM → MBOM → Work Instructions → Shop Floor Execution**
+
+Repository:
+https://github.com/sarthakpatel27-hue/digital-thread-manufacturing
+
+## Tools
+
+CAD / Engineering  
+CATIA • SiemensNX 
+
+Manufacturing  
+New Product Introduction | Production Optimisation | Risk Thinking | Supply Chain  
+
+Digital Systems  
+Python | SQL | Power BI  
+
+## Background
+
+Manufacturing Engineer
+MSc Aerospace Manufacturing – Cranfield University   
+
+---
